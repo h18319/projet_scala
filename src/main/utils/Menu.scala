@@ -155,6 +155,7 @@ object Menu {
     println("sbt.version = 1.7.3")
     println("\nProjet realise sur IntelliJ")
     println("auteur : Imane Hornain")
+    println("\nSi vous changer de fichier, ne pas oublier de changer la valeur de \"nomFichier\" a la 14eme ligne de l'objet Menu.")
     menuPrincipal()
   }
 }
